@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react'
-import Producto from './Producto'
+
 
 const OfertasDia = () => {
     const [datos, setDatos] = useState([])
-    const [itemsCarrito, setItemsCarrito ] = useState([])
+    
 
 
     

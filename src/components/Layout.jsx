@@ -2,8 +2,6 @@ import React from 'react'
 import Navbar from './Navbar'
 import { AiFillPhone, AiOutlineArrowDown } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
-import { BiDownArrow } from 'react-icons/bi'
-import { FaArrowDown } from 'react-icons/fa'
 import Categorias from './Categorias'
 import OfertasDia from './OfertasDia'
 
