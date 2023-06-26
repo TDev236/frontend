@@ -12,7 +12,7 @@ const Categoria = ({nombre, imagen}) => {
         <img
             src={imagen}
             alt={nombre}
-            className='object-cover h-48 w-72'
+            className='object-cover h-48 w-72 md:h-80 md:w-[800px]'
 
         />
     </div>

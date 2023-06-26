@@ -36,7 +36,7 @@ const Layout = ({children}) => {
         <main>
             <p className='text-center uppercase p-4 font-bold text-xl'>Categorias</p>
             <Categorias/>
-            <p className='text-center uppercase p-4 font-bold text-xl'>Ofertas del Dia</p>
+            <p className='text-center uppercase p-4 font-bold text-xl mt-4'>Ofertas del Dia</p>
             <OfertasDia/>
         </main>
     </div>
